@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @import1bones
+- 👋 Hi, I’m Yan Chao.
 - 👀 I’m interested in :
-- 🌱 I’m currently learning :
-embedding in linux,c/cpp
+- 🌱 I’m currently learning : 
+embedded system, linux, c/cpp, open source.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me :
 mail to 13519377850@163.com
